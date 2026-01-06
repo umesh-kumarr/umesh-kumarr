@@ -81,14 +81,14 @@ I'm actively looking for:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=umesh-kumarr&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=umesh-kumarr/&show_icons=true&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect
 
 📧 **Email:** umeshkumarr.ds@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/umeshkumar02 
+💼 **LinkedIn:** [linkedin.com/in/umeshkumar02 ](https://www.linkedin.com/in/umeshkumar02/)
 💬 **Message me:** Always open to chat about data projects!
 
 ---
