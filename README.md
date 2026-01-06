@@ -88,7 +88,8 @@ I'm actively looking for:
 ## 🤝 Let's Connect
 
 📧 **Email:** umeshkumarr.ds@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/umeshkumar02 ](https://www.linkedin.com/in/umeshkumar02/)
+💼 **LinkedIn:** [linkedin.com/in/umeshkumar02 ](https://www.linkedin.com/in/umeshkumar02/) 
+
 💬 **Message me:** Always open to chat about data projects!
 
 ---
