@@ -3,7 +3,7 @@
 **Data Analyst | Machine Learning Engineer | Open to Remote Work**
 
 📍 **Location:** Gurugram, India | 🌍 **Interested in:** Digital Nomad Opportunities  
-📧 **Email:** umeshkumarr.ds@gmail.com | 💼 **LinkedIn:** linkedin.com/in/umeshkumar02
+📧 **Email:** umeshkumarr.ds@gmail.com | 💼 **LinkedIn:** [linkedin.com/in/umeshkumar02](https://www.linkedin.com/in/umeshkumar02/)
 🔗 **Website:** Coming soon
 
 ---
