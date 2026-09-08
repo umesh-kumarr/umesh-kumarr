@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Umesh Kumar
 
-**Data Analyst | Machine Learning Engineer | Open to Remote Work**
+**Data Scientist | Machine Learning Engineer | Open to Remote Work**
 
-📍 **Location:** Gurugram, India | 🌍 **Interested in:** Digital Nomad Opportunities  
+📍 **Location:** Gurugram, India | 🌍 **Interested in:** AI ML Opportunities  
 📧 **Email:** umeshkumarr.ds@gmail.com | 💼 **LinkedIn:** [linkedin.com/in/umeshkumar02](https://www.linkedin.com/in/umeshkumar02/)
-🔗 **Website:** Coming soon
 
 ---
 
 ## 🎯 About Me
 
-I'm a passionate data analyst with 6+ months of hands-on experience building machine learning models and designing data-driven solutions. I recently completed my **BTech in Data Science** and am now focusing on developing my freelance data analysis business while building my digital nomad career.
+I'm a passionate data analyst with 6+ months of hands-on experience building machine learning models and designing data-driven solutions. I recently completed my **BTech in Data Science** and am now focusing on developing my freelance data science business while building my digital nomad career.
 
 **What I Do:**
 - 🤖 Build predictive ML models (Classification, Regression, Time Series)
